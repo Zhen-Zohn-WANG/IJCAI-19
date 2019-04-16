@@ -1,6 +1,7 @@
 # IJCAI-19
 
-Table: Performance comparison of IFM and other predicative on **Avazu**
+Table: Performance comparison of IFM and other predicative models 
+on **Avazu**
 
 | Model | AUC(%) | Log Loss |
 | ------------- | ------------- | ------------- |
