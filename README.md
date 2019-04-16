@@ -1,6 +1,7 @@
 # IJCAI-19
 
 Table: Performance comparison of IFM and other predicative on **Avazu**
+
 | Model | AUC(%) | Log Loss |
 | ------------- | ------------- | ------------- |
 | FM | 76.20 | 0.3912 |
